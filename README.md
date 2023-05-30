@@ -2,7 +2,7 @@
 Practice &amp; code projects from SoloLearn.
 
 * My First Code Coach!
- * Let's code for real! The given program should output the text: "My first C# Code Coach!". But something is wrong.
+  * Let's code for real! The given program should output the text: "My first C# Code Coach!". But something is wrong.
 
 * Social network
   * You are making a social network application and want to add post creation functionality. As a user creates a post, the text "New post" should be automatically outputted so that then the user can add the text he/she wants to share. The program you are given declares a Post class with a text private field, and the ShowPost() method which outputs the content.

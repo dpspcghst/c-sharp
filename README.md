@@ -10,3 +10,6 @@ Practice &amp; code projects from SoloLearn.
     * a constructor, which outputs "New post" as called,
     * Text property, which will allow you to get and set the value of the text field.
   * Once you have made the changes to the program so that it works correctly, then in main, the program will take the text of the post from the user, create a post object, assign the taken value to the text field and output it.
+
+* Solve The Puzzle
+  * A game machine has 5 games installed on it. Write a program to take N number as input and output the corresponding game with N index from the array. If user enters an invalid number that is out of array range, the program should output "Invalid number".

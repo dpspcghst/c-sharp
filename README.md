@@ -13,3 +13,6 @@ Practice &amp; code projects from SoloLearn.
 
 * Solve The Puzzle
   * A game machine has 5 games installed on it. Write a program to take N number as input and output the corresponding game with N index from the array. If user enters an invalid number that is out of array range, the program should output "Invalid number".
+
+* Only The Evens!
+  * The program you are given takes 5 numbers as input and stores them in an array. Complete the program to go through the array and output the the sum of even numbers.

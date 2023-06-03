@@ -16,3 +16,9 @@ Practice &amp; code projects from SoloLearn.
 
 * Only The Evens!
   * The program you are given takes 5 numbers as input and stores them in an array. Complete the program to go through the array and output the the sum of even numbers.
+
+* Array To Table
+  * Complete the program to output this array in the form of a table (without separation):
+    * 123
+    * 456
+    * 789

@@ -22,3 +22,6 @@ Practice &amp; code projects from SoloLearn.
     * 123
     * 456
     * 789
+
+* Qualifying For The Olympics
+  * The qualifiers for the Olympiad lasts 3 days, and one winner is selected each qualifying day. The jagged array you are given represents the list of all participants, divided by the number of days (there are 3 arrays inside the main one, each representing the participants who took part on that day). Write a program to take the numbers of each day's winners as input and output them.

@@ -28,3 +28,8 @@ Practice &amp; code projects from SoloLearn.
 
 * Minimum And Maximum
   * Write a program to take 5 numbers as input, then calculate and output the sum of the maximum and the minimum inputted values.
+
+* Password Rules
+  * You are creating an authentication system. The given program takes the password as input.
+    * Write a program to output "Invalid", if  it contains any disallowed symbols.
+    * If the password requirement is satisfied, program shouldn't output anything.

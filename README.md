@@ -34,5 +34,8 @@ Practice &amp; code projects from SoloLearn.
     * Write a program to output "Invalid", if  it contains any disallowed symbols.
     * If the password requirement is satisfied, program shouldn't output anything.
 
+* Words
+  * The program you are given defines an array with 10 words and takes a letter as input. Write a program to iterate through the array and output words containing the taken letter. If there is no such word, the program should output "No match".
+
 * Who Won?
   * Five participants have advanced to the final round of a TV trivia show, and it is time to announce the winner and end the game. The program you are given defines the array of finalists, takes the index of the winner as input, and creates the FinalRound object. Complete the FinalRound class by writing the needed code in constructor to take the array and the winner index as parameters and output the corresponding message to show the winner. Then create a destructor to finish the game and output "Game Over".

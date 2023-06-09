@@ -39,3 +39,6 @@ Practice &amp; code projects from SoloLearn.
 
 * Who Won?
   * Five participants have advanced to the final round of a TV trivia show, and it is time to announce the winner and end the game. The program you are given defines the array of finalists, takes the index of the winner as input, and creates the FinalRound object. Complete the FinalRound class by writing the needed code in constructor to take the array and the winner index as parameters and output the corresponding message to show the winner. Then create a destructor to finish the game and output "Game Over".
+
+* Grow Your Business
+  * A company has 2 departments and it is growing, so more departments are needed. The program you are given takes the number of departments to be opened as input, then takes their names and creates Department objects, passing their names as the constructor. Complete the Department class to have 1 static member depCount with an initial value of 2 for the number of departments and the constructor that will count it and output corresponding message (see sample output).

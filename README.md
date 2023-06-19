@@ -42,3 +42,6 @@ Practice &amp; code projects from SoloLearn.
 
 * Grow Your Business
   * A company has 2 departments and it is growing, so more departments are needed. The program you are given takes the number of departments to be opened as input, then takes their names and creates Department objects, passing their names as the constructor. Complete the Department class to have 1 static member depCount with an initial value of 2 for the number of departments and the constructor that will count it and output corresponding message (see sample output).
+
+* Array Sorting
+  * The program you are given takes the N number as the size of an array, followed by N numbers. Complete the program to sort and output every element of an array, each on a new line.

@@ -45,3 +45,6 @@ Practice &amp; code projects from SoloLearn.
 
 * Array Sorting
   * The program you are given takes the N number as the size of an array, followed by N numbers. Complete the program to sort and output every element of an array, each on a new line.
+
+* All About This
+  * The program you are given takes 2 numbers as input and should calculate and output their average. But something is wrong. Complete the Avg class by creating the constructor, where the 2 parameters will be assigned to members of the class.

@@ -48,3 +48,6 @@ Practice &amp; code projects from SoloLearn.
 
 * All About This
   * The program you are given takes 2 numbers as input and should calculate and output their average. But something is wrong. Complete the Avg class by creating the constructor, where the 2 parameters will be assigned to members of the class.
+
+* Music Selector
+  * The music app you enjoy allows you to choose 5 music genres to follow. The program you are given takes 5 music genres as input and stores them in the MusicGenres object as an array. Fix the program by declaring an indexer inside the MusicGenres class so that the given outputs work correctly.
